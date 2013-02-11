@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: .NET | My Octopress Blog]]></title>
+  <link href="http://eclifford.github.com/blog/categories/-net/atom.xml" rel="self"/>
+  <link href="http://eclifford.github.com/"/>
+  <updated>2013-02-11T14:30:06-08:00</updated>
+  <id>http://eclifford.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Testing]]></title>
+    <link href="http://eclifford.github.com/blog/2013/01/29/testing/"/>
+    <updated>2013-01-29T19:59:00-08:00</updated>
+    <id>http://eclifford.github.com/blog/2013/01/29/testing</id>
+    <content type="html"><![CDATA[<h1>Testing</h1>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span> (test.coffee)</span> <a href='/downloads/code/test.coffee'>download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='coffeescript'><span class='line'><span class="k">class</span> <span class="nx">MyClass</span>
+</span><span class='line'>  <span class="nv">name: </span><span class="s">&#39;Eric Clifford&#39;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<h1>Blog Post Ideas</h1>
+
+<ol>
+<li>YAGNI</li>
+<li>KISS</li>
+<li>Rule of Three</li>
+<li>Don't Repeat Yourself</li>
+<li>List of Software Engineering Terms</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
